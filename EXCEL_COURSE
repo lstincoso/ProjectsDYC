@@ -1,0 +1,17 @@
+EXCEL COURSE
+--------------------------------------------------------------------------------------------------------
+TIPS                                           | Estadistica
+--------------------------------------------------------------------------------------------------------
+*Select un conjunto de celdas				   |
+	-> Ctrl+TabMay+direccion				   |
+*Ver como informe							   |	
+	-> (PESTAÑA)Diseño Pagina- Lineas- Ver	   |
+*Inmovilizar  								   |
+	-> (PESTAÑA)Vista-Inmovilizar              |
+	(1° selecciona la celda 2°(Pestaña))       |
+*Filtro                                        |
+	->(PESTAÑA)Datos-Filtro                    |
+	(1° seleciona celdas o fila o columana)    |
+*.csv                                          |
+	->(Pestaña)Datos-Obtener datos externos    |
+	(Configurar segun coma(,) generalmente)    |
