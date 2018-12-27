@@ -2,13 +2,13 @@ EXCEL COURSE
 --------------------------------------------------------------------------------------------------------
 TIPS                                           | Estadistica
 --------------------------------------------------------------------------------------------------------
-*Select un conjunto de celdas				   |
-	-> Ctrl+TabMay+direccion				   |
-*Ver como informe							   |	
-	-> (PESTAÑA)Diseño Pagina- Lineas- Ver	   |
-*Inmovilizar  								   |
-	-> (PESTAÑA)Vista-Inmovilizar              |
-	(1° selecciona la celda 2°(Pestaña))       |
+*Select un conjunto de celdas				   | *Mediana: No cambia su valor por valores extremos, este 
+	-> Ctrl+TabMay+direccion				   | ordena los datos y toma los valor(es) central(es)
+*Ver como informe							   | *Media: Suma de los valores entre el numero de elem
+	-> (PESTAÑA)Diseño Pagina- Lineas- Ver	   | *Moda:Repeticion de elem en la muestra.
+*Inmovilizar  								   | *Promedio ponderado: añadiendo un indicador, que añade 
+	-> (PESTAÑA)Vista-Inmovilizar              | un peso a los elementos de la muestra.
+	(1° selecciona la celda 2°(Pestaña))       | 
 *Filtro                                        |
 	->(PESTAÑA)Datos-Filtro                    |
 	(1° seleciona celdas o fila o columana)    |
